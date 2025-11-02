@@ -1,0 +1,12 @@
+{
+  "name": "leetcode_coding_trae",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "vitest": "^4.0.6"
+  }
+}
